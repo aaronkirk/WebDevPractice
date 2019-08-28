@@ -1,0 +1,64 @@
+﻿{
+
+	"SuperSmashBros.Melee": {
+		"BookTitle": "Super Smash Bros. Melee",
+		"Author": "7.09 million",
+		"Release Year": "2001"
+	},
+	"MarioKart:DoubleDash‼": {
+		"BookTitle": "Mario Kart: Double Dash‼",
+		"Author": "7 million",
+		"Release Year": "2003"
+	},
+	"SuperMarioSunshine": {
+		"BookTitle": "Super Mario Sunshine",
+		"Author": "6.31 million",
+		"Release Year": "2002"
+	},
+	"NineteenEighty-Four": {
+		"BookTitle": "NineteenEighty-Four",
+		"Author": "George Orwell",
+		"Release Year": "1949"
+	},
+	"TheDaVinciCode": {
+		"BookTitle": "The Da Vinci Code",
+		"Author": "Dan Brown",
+		"Release Year": "2003"
+	},
+	"BraveNewWorld": {
+		"BookTitle": "Brave New World",
+		"Author": "Aldous Huxley",
+		"Release Year": "1932"
+	},
+	"TheDarkFields": {
+		"BookTitle": "The Dark Fields",
+		"Author": "Alan Glynn",
+		"Release Year": "2001"
+	},
+	"ReadyPlayerOne": {
+		"BookTitle": "Ready Player One",
+		"Author": "Ernest Cline",
+		"Release Year": "2011"
+	},
+	"TheFifthSeason": {
+		"BookTitle": "The Fifth Season",
+		"Author": "N. K. Jemisin",
+		"Release Year": "2015"
+	},
+	"FarCentaurus": {
+		"BookTitle": "Far Centaurus",
+		"Author": "A. E. van Vogt",
+		"Release Year": "1944"
+	},
+	"TheManInTheHighCastle": {
+		"BookTitle": "The Man in the High Castle",
+		"Author": "Philip K. Dick",
+		"Release Year": "1962"
+	},
+	"LeviathanWakes": {
+		"BookTitle": "Leviathan Wakes",
+		"Author": "James S. A. Corey",
+		"Release Year": "2011"
+	}
+
+}
