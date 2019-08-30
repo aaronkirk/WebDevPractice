@@ -20,39 +20,64 @@
 		"Sales": "6.31 million",
 		"Release Year": "2002"
 	},
-	"name1": {
-		"GameTitle": "Super Smash Bros. Melee",
-		"Sales": "7.09 million",
+	"Luigi'sMansion": {
+		"GameTitle": "Luigi's Mansion",
+		"Sales": "3.6 million",
 		"Release Year": "2001"
 	},
-	"name2": {
-		"GameTitle": "Super Smash Bros. Melee",
-		"Sales": "7.09 million",
+	"AnimalCrossing": {
+		"GameTitle": "Animal Crossing",
+		"Sales": "3.15 million",
 		"Release Year": "2001"
 	},
-	"name3": {
-		"GameTitle": "Super Smash Bros. Melee",
-		"Sales": "7.09 million",
-		"Release Year": "2001"
+	"TheLegendofZelda:TheWindWaker": {
+		"GameTitle": "The Legend of Zelda: The Wind Waker",
+		"Sales": "3.07 million",
+		"Release Year": "2002"
 	},
-	"name4": {
-		"GameTitle": "Super Smash Bros. Melee",
-		"Sales": "7.09 million",
-		"Release Year": "2001"
+	"Metroid Prime": {
+		"GameTitle": "Metroid Prime",
+		"Sales": "2.82 million",
+		"Release Year": "2002"
 	},
-	"name5": {
-		"GameTitle": "Super Smash Bros. Melee",
-		"Sales": "7.09 million",
-		"Release Year": "2001"
+	"SonicAdventure2Battle": {
+		"GameTitle": "Sonic Adventure 2 Battle",
+		"Sales": "2.56 million",
+		"Release Year": "2002"
 	},
-	"name6": {
-		"GameTitle": "Super Smash Bros. Melee",
-		"Sales": "7.09 million",
-		"Release Year": "2001"
+	"PaperMario:TheThousand-YearDoor": {
+		"GameTitle": "Paper Mario: The Thousand-Year Door",
+		"Sales": "2.25 million",
+		"Release Year": "2004"
 	},
-	"name7": {
-		"GameTitle": "Super Smash Bros. Melee",
-		"Sales": "7.09 million",
-		"Release Year": "2001"
+	"MarioParty4": {
+		"GameTitle": "Mario Party 4",
+		"Sales": "2.21 million",
+		"Release Year": "2002"
+	},
+	"SonicMegaCollection": {
+		"GameTitle": "Sonic Mega Collection",
+		"Sales": "2.05 million",
+		"Release Year": "2002"
+	},
+	"MarioParty5": {
+		"GameTitle": "Mario Party 5",
+		"Sales": "2 million",
+		"Release Year": "2003"
+	},
+	"StarFoxAdventures": {
+		"GameTitle": "Star Fox Adventures",
+		"Sales": "1.87 million",
+		"Release Year": "2002"
+	},
+	"MarioParty7": {
+		"GameTitle": "Mario Party 7",
+		"Sales": "1.86 million",
+		"Release Year": "2005"
+	},
+	"PokémonColosseum": {
+		"GameTitle": "Pokémon Colosseum",
+		"Sales": "1.81 million",
+		"Release Year": "2003"
 	}
 }
